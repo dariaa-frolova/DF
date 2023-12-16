@@ -1,0 +1,14 @@
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\bin\Debug\net7.0\exe2.exe
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\bin\Debug\net7.0\exe2.deps.json
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\bin\Debug\net7.0\exe2.runtimeconfig.json
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\bin\Debug\net7.0\exe2.dll
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\bin\Debug\net7.0\exe2.pdb
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\obj\Debug\net7.0\exe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\obj\Debug\net7.0\exe2.AssemblyInfoInputs.cache
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\obj\Debug\net7.0\exe2.AssemblyInfo.cs
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\obj\Debug\net7.0\exe2.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\obj\Debug\net7.0\exe2.dll
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\obj\Debug\net7.0\refint\exe2.dll
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\obj\Debug\net7.0\exe2.pdb
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\obj\Debug\net7.0\exe2.genruntimeconfig.cache
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe2\obj\Debug\net7.0\ref\exe2.dll

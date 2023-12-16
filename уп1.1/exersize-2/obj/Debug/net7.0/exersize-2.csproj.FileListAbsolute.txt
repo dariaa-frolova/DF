@@ -1,0 +1,14 @@
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\bin\Debug\net7.0\exersize-2.exe
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\bin\Debug\net7.0\exersize-2.deps.json
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\bin\Debug\net7.0\exersize-2.runtimeconfig.json
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\bin\Debug\net7.0\exersize-2.dll
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\bin\Debug\net7.0\exersize-2.pdb
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\obj\Debug\net7.0\exersize-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\obj\Debug\net7.0\exersize-2.AssemblyInfoInputs.cache
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\obj\Debug\net7.0\exersize-2.AssemblyInfo.cs
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\obj\Debug\net7.0\exersize-2.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\obj\Debug\net7.0\exersize-2.dll
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\obj\Debug\net7.0\refint\exersize-2.dll
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\obj\Debug\net7.0\exersize-2.pdb
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\obj\Debug\net7.0\exersize-2.genruntimeconfig.cache
+C:\Users\public.COPP\RiderProjects\ConsoleApp12\exersize-2\obj\Debug\net7.0\ref\exersize-2.dll

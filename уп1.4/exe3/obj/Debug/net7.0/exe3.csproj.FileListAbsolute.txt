@@ -1,0 +1,14 @@
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\bin\Debug\net7.0\exe3.exe
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\bin\Debug\net7.0\exe3.deps.json
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\bin\Debug\net7.0\exe3.runtimeconfig.json
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\bin\Debug\net7.0\exe3.dll
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\bin\Debug\net7.0\exe3.pdb
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\obj\Debug\net7.0\exe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\obj\Debug\net7.0\exe3.AssemblyInfoInputs.cache
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\obj\Debug\net7.0\exe3.AssemblyInfo.cs
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\obj\Debug\net7.0\exe3.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\obj\Debug\net7.0\exe3.dll
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\obj\Debug\net7.0\refint\exe3.dll
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\obj\Debug\net7.0\exe3.pdb
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\obj\Debug\net7.0\exe3.genruntimeconfig.cache
+C:\Users\public.COPP\Desktop\1234\уп1.4\exe3\obj\Debug\net7.0\ref\exe3.dll
