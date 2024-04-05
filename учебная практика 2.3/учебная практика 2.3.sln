@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "упр1", "упр1\упр1.csproj", "{F70080EA-B2A2-42C9-A21E-8F892BD21C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "упр2", "упр2\упр2.csproj", "{35B42830-22DE-415A-9CF1-7E8046269A53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "упр3", "упр3\упр3.csproj", "{F016D558-8161-410F-8F04-C9638B2FCB13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F70080EA-B2A2-42C9-A21E-8F892BD21C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70080EA-B2A2-42C9-A21E-8F892BD21C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70080EA-B2A2-42C9-A21E-8F892BD21C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70080EA-B2A2-42C9-A21E-8F892BD21C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B42830-22DE-415A-9CF1-7E8046269A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B42830-22DE-415A-9CF1-7E8046269A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B42830-22DE-415A-9CF1-7E8046269A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B42830-22DE-415A-9CF1-7E8046269A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F016D558-8161-410F-8F04-C9638B2FCB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F016D558-8161-410F-8F04-C9638B2FCB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F016D558-8161-410F-8F04-C9638B2FCB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F016D558-8161-410F-8F04-C9638B2FCB13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
